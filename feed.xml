@@ -3,12 +3,78 @@
     <title>ИзоМат</title>
     <link href="https://winternuggetdisplayvanilla.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://winternuggetdisplayvanilla.github.io/gh-pages" />
-    <updated>2026-04-27T14:09:15+03:00</updated>
+    <updated>2026-06-24T10:21:00+03:00</updated>
     <author>
         <name>admin</name>
     </author>
     <id>https://winternuggetdisplayvanilla.github.io/gh-pages</id>
 
+    <entry>
+        <title>Закрытие галереи</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://winternuggetdisplayvanilla.github.io/gh-pages/zakrytie-galerei.html"/>
+        <id>https://winternuggetdisplayvanilla.github.io/gh-pages/zakrytie-galerei.html</id>
+            <category term="news"/>
+
+        <updated>2026-06-24T10:21:00+03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Сожалеем, но галерея&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Сожалеем, но галерея закрывается.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Выложен контент галереи</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://winternuggetdisplayvanilla.github.io/gh-pages/vylozhen-kontent-galerei.html"/>
+        <id>https://winternuggetdisplayvanilla.github.io/gh-pages/vylozhen-kontent-galerei.html</id>
+            <category term="news"/>
+
+        <updated>2026-05-24T10:21:00+03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Вы узнаете много&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Вы узнаете много нового и насладитесь настоящим!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Открытие сайта</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://winternuggetdisplayvanilla.github.io/gh-pages/otkrytie-sayta.html"/>
+        <id>https://winternuggetdisplayvanilla.github.io/gh-pages/otkrytie-sayta.html</id>
+            <category term="news"/>
+
+        <updated>2026-05-23T08:46:00+03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Наконец-то сайт открыт.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Наконец-то сайт открыт. Добро пожаловать!
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Формула для числа пи рядом Лейбница</title>
         <author>
@@ -125,57 +191,6 @@
         <content type="html">
             <![CDATA[
                 <figure class="post__image"><img loading="lazy"  src="https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/16/05_arifm_todzh.png" alt="" width="337" height="32" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/16/responsive/05_arifm_todzh-xs.png 640w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/16/responsive/05_arifm_todzh-sm.png 768w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/16/responsive/05_arifm_todzh-md.png 1024w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/16/responsive/05_arifm_todzh-lg.png 1366w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/16/responsive/05_arifm_todzh-xl.png 1600w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/16/responsive/05_arifm_todzh-2xl.png 1920w"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Второй замечательный предел</title>
-        <author>
-            <name>admin</name>
-        </author>
-        <link href="https://winternuggetdisplayvanilla.github.io/gh-pages/vtoroy-zamechatelnyy-predel.html"/>
-        <id>https://winternuggetdisplayvanilla.github.io/gh-pages/vtoroy-zamechatelnyy-predel.html</id>
-            <category term="gallery"/>
-
-        <updated>2026-04-01T12:19:51+03:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/15/04_zamech_predel_2-2.png" alt="" width="527" height="153" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/15/responsive/04_zamech_predel_2-2-xs.png 640w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/15/responsive/04_zamech_predel_2-2-sm.png 768w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/15/responsive/04_zamech_predel_2-2-md.png 1024w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/15/responsive/04_zamech_predel_2-2-lg.png 1366w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/15/responsive/04_zamech_predel_2-2-xl.png 1600w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/15/responsive/04_zamech_predel_2-2-2xl.png 1920w"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Первый замечательный предел</title>
-        <author>
-            <name>admin</name>
-        </author>
-        <link href="https://winternuggetdisplayvanilla.github.io/gh-pages/pervyy-zamechatelnyy-predel.html"/>
-        <id>https://winternuggetdisplayvanilla.github.io/gh-pages/pervyy-zamechatelnyy-predel.html</id>
-            <category term="gallery"/>
-
-        <updated>2026-04-01T12:19:03+03:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/14/03_zamech_predel_1.png" alt="" width="239" height="84" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/14/responsive/03_zamech_predel_1-xs.png 640w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/14/responsive/03_zamech_predel_1-sm.png 768w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/14/responsive/03_zamech_predel_1-md.png 1024w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/14/responsive/03_zamech_predel_1-lg.png 1366w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/14/responsive/03_zamech_predel_1-xl.png 1600w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/14/responsive/03_zamech_predel_1-2xl.png 1920w"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Теорема Пифагора</title>
-        <author>
-            <name>admin</name>
-        </author>
-        <link href="https://winternuggetdisplayvanilla.github.io/gh-pages/teorema-pifagora.html"/>
-        <id>https://winternuggetdisplayvanilla.github.io/gh-pages/teorema-pifagora.html</id>
-            <category term="gallery"/>
-
-        <updated>2026-04-01T12:17:59+03:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/13/02_theory_pifagor.png" alt="" width="215" height="40" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/13/responsive/02_theory_pifagor-xs.png 640w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/13/responsive/02_theory_pifagor-sm.png 768w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/13/responsive/02_theory_pifagor-md.png 1024w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/13/responsive/02_theory_pifagor-lg.png 1366w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/13/responsive/02_theory_pifagor-xl.png 1600w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/13/responsive/02_theory_pifagor-2xl.png 1920w"></figure>
             ]]>
         </content>
     </entry>
