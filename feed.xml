@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>ИзоМат</title>
+    <link href="https://winternuggetdisplayvanilla.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://winternuggetdisplayvanilla.github.io/gh-pages" />
+    <updated>2026-04-27T14:09:15+03:00</updated>
+    <author>
+        <name>admin</name>
+    </author>
+    <id>https://winternuggetdisplayvanilla.github.io/gh-pages</id>
+
+    <entry>
+        <title>Формула для числа пи рядом Лейбница</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://winternuggetdisplayvanilla.github.io/gh-pages/formula-dlya-chisla-pi-ryadom-leybnica.html"/>
+        <id>https://winternuggetdisplayvanilla.github.io/gh-pages/formula-dlya-chisla-pi-ryadom-leybnica.html</id>
+            <category term="gallery"/>
+
+        <updated>2026-04-01T12:24:55+03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/22/11_formul_dlya_pi.png" alt="" width="278" height="114" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/22/responsive/11_formul_dlya_pi-xs.png 640w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/22/responsive/11_formul_dlya_pi-sm.png 768w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/22/responsive/11_formul_dlya_pi-md.png 1024w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/22/responsive/11_formul_dlya_pi-lg.png 1366w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/22/responsive/11_formul_dlya_pi-xl.png 1600w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/22/responsive/11_formul_dlya_pi-2xl.png 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Формула для экспоненты рядом Тейлора</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://winternuggetdisplayvanilla.github.io/gh-pages/formula-dlya-eksponenty-ryadom-teylora.html"/>
+        <id>https://winternuggetdisplayvanilla.github.io/gh-pages/formula-dlya-eksponenty-ryadom-teylora.html</id>
+            <category term="gallery"/>
+
+        <updated>2026-04-01T12:24:16+03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/21/10_formul_dlya_exp.png" alt="" width="216" height="114" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/21/responsive/10_formul_dlya_exp-xs.png 640w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/21/responsive/10_formul_dlya_exp-sm.png 768w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/21/responsive/10_formul_dlya_exp-md.png 1024w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/21/responsive/10_formul_dlya_exp-lg.png 1366w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/21/responsive/10_formul_dlya_exp-xl.png 1600w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/21/responsive/10_formul_dlya_exp-2xl.png 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Гауссов интеграл</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://winternuggetdisplayvanilla.github.io/gh-pages/gaussov-integral.html"/>
+        <id>https://winternuggetdisplayvanilla.github.io/gh-pages/gaussov-integral.html</id>
+            <category term="gallery"/>
+
+        <updated>2026-04-01T12:23:36+03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/20/09_gayssov_integ.png" alt="" width="340" height="98" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/20/responsive/09_gayssov_integ-xs.png 640w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/20/responsive/09_gayssov_integ-sm.png 768w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/20/responsive/09_gayssov_integ-md.png 1024w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/20/responsive/09_gayssov_integ-lg.png 1366w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/20/responsive/09_gayssov_integ-xl.png 1600w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/20/responsive/09_gayssov_integ-2xl.png 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Дифференцирование экспоненты</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://winternuggetdisplayvanilla.github.io/gh-pages/differencirovanie-eksponenty.html"/>
+        <id>https://winternuggetdisplayvanilla.github.io/gh-pages/differencirovanie-eksponenty.html</id>
+            <category term="gallery"/>
+
+        <updated>2026-04-01T12:22:53+03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/19/08_differ_exp.png" alt="" width="182" height="85" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/19/responsive/08_differ_exp-xs.png 640w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/19/responsive/08_differ_exp-sm.png 768w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/19/responsive/08_differ_exp-md.png 1024w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/19/responsive/08_differ_exp-lg.png 1366w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/19/responsive/08_differ_exp-xl.png 1600w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/19/responsive/08_differ_exp-2xl.png 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Формула Эйлера</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://winternuggetdisplayvanilla.github.io/gh-pages/formula-eylera.html"/>
+        <id>https://winternuggetdisplayvanilla.github.io/gh-pages/formula-eylera.html</id>
+            <category term="gallery"/>
+
+        <updated>2026-04-01T12:22:11+03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/18/07_formul_eylere.png" alt="" width="344" height="41" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/18/responsive/07_formul_eylere-xs.png 640w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/18/responsive/07_formul_eylere-sm.png 768w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/18/responsive/07_formul_eylere-md.png 1024w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/18/responsive/07_formul_eylere-lg.png 1366w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/18/responsive/07_formul_eylere-xl.png 1600w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/18/responsive/07_formul_eylere-2xl.png 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Тоджество Эйлера</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://winternuggetdisplayvanilla.github.io/gh-pages/todzhestvo-eylera.html"/>
+        <id>https://winternuggetdisplayvanilla.github.io/gh-pages/todzhestvo-eylera.html</id>
+            <category term="gallery"/>
+
+        <updated>2026-04-01T12:21:24+03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/17/06_todzh_eylere.png" alt="" width="199" height="41" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/17/responsive/06_todzh_eylere-xs.png 640w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/17/responsive/06_todzh_eylere-sm.png 768w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/17/responsive/06_todzh_eylere-md.png 1024w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/17/responsive/06_todzh_eylere-lg.png 1366w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/17/responsive/06_todzh_eylere-xl.png 1600w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/17/responsive/06_todzh_eylere-2xl.png 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Арифметическое тоджество</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://winternuggetdisplayvanilla.github.io/gh-pages/arifmeticheskoe-todzhestvo.html"/>
+        <id>https://winternuggetdisplayvanilla.github.io/gh-pages/arifmeticheskoe-todzhestvo.html</id>
+            <category term="gallery"/>
+
+        <updated>2026-04-01T12:20:39+03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/16/05_arifm_todzh.png" alt="" width="337" height="32" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/16/responsive/05_arifm_todzh-xs.png 640w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/16/responsive/05_arifm_todzh-sm.png 768w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/16/responsive/05_arifm_todzh-md.png 1024w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/16/responsive/05_arifm_todzh-lg.png 1366w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/16/responsive/05_arifm_todzh-xl.png 1600w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/16/responsive/05_arifm_todzh-2xl.png 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Второй замечательный предел</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://winternuggetdisplayvanilla.github.io/gh-pages/vtoroy-zamechatelnyy-predel.html"/>
+        <id>https://winternuggetdisplayvanilla.github.io/gh-pages/vtoroy-zamechatelnyy-predel.html</id>
+            <category term="gallery"/>
+
+        <updated>2026-04-01T12:19:51+03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/15/04_zamech_predel_2-2.png" alt="" width="527" height="153" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/15/responsive/04_zamech_predel_2-2-xs.png 640w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/15/responsive/04_zamech_predel_2-2-sm.png 768w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/15/responsive/04_zamech_predel_2-2-md.png 1024w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/15/responsive/04_zamech_predel_2-2-lg.png 1366w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/15/responsive/04_zamech_predel_2-2-xl.png 1600w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/15/responsive/04_zamech_predel_2-2-2xl.png 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Первый замечательный предел</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://winternuggetdisplayvanilla.github.io/gh-pages/pervyy-zamechatelnyy-predel.html"/>
+        <id>https://winternuggetdisplayvanilla.github.io/gh-pages/pervyy-zamechatelnyy-predel.html</id>
+            <category term="gallery"/>
+
+        <updated>2026-04-01T12:19:03+03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/14/03_zamech_predel_1.png" alt="" width="239" height="84" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/14/responsive/03_zamech_predel_1-xs.png 640w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/14/responsive/03_zamech_predel_1-sm.png 768w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/14/responsive/03_zamech_predel_1-md.png 1024w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/14/responsive/03_zamech_predel_1-lg.png 1366w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/14/responsive/03_zamech_predel_1-xl.png 1600w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/14/responsive/03_zamech_predel_1-2xl.png 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Теорема Пифагора</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://winternuggetdisplayvanilla.github.io/gh-pages/teorema-pifagora.html"/>
+        <id>https://winternuggetdisplayvanilla.github.io/gh-pages/teorema-pifagora.html</id>
+            <category term="gallery"/>
+
+        <updated>2026-04-01T12:17:59+03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/13/02_theory_pifagor.png" alt="" width="215" height="40" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/13/responsive/02_theory_pifagor-xs.png 640w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/13/responsive/02_theory_pifagor-sm.png 768w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/13/responsive/02_theory_pifagor-md.png 1024w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/13/responsive/02_theory_pifagor-lg.png 1366w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/13/responsive/02_theory_pifagor-xl.png 1600w ,https://winternuggetdisplayvanilla.github.io/gh-pages/media/posts/13/responsive/02_theory_pifagor-2xl.png 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
